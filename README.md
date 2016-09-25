@@ -19,3 +19,6 @@ Software Repositories
 # Split comand large file into small file (20Mb)
     sample: split -b20000000 jdk-8u102-linux-x64.rpm jdk-8u102-linux-x64.rpm
 
+# Guideline
+- https://lecturesnippets.com/course/centos-7-minimal-web-server/
+- http://www.tecmint.com/things-to-do-after-minimal-rhel-centos-7-installation/
