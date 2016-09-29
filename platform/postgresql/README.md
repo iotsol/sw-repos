@@ -1,5 +1,13 @@
 # RPM Files
 	http://yum.postgresql.org/9.5/redhat/rhel-7-x86_64/repoview/
+- postgresql-unit95-1.0-1.rhel7.x86_64.rpm
+- pgadmin4-1.0-rc1_6.rhel7.x86_64.rpm
+- postgresql95-9.5.4-2PGDG.rhel7.x86_64.rpm
+- postgresql95-server-9.5.4-2PGDG.rhel7.x86_64.rpm
+- pgadmin4-web-1.0-rc1_6.rhel7.noarch.rpm
+- postgresql95-libs-9.5.4-2PGDG.rhel7.x86_64.rpm
+- postgresql95-contrib-9.5.4-2PGDG.rhel7.x86_64.rpm
+- postgresql-jdbc-9.4.1211-1.rhel7.noarch.rpm
 
 # PostgreSQL Yum Repository
 To use the yum repository, you must first install the repository RPM. To do this, download the correct RPM from the repository RPM listing, and install it with commands like:
